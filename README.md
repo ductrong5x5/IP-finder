@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/ductrong5x5/IP-finder/blob/main/Screenshot%202024-10-19%20230431.png?raw=true" alt="project-screenshot" width="400" >
+<img src="https://github.com/ductrong5x5/IP-finder/blob/main/Screenshot%202024-10-19%20230431.png?raw=true" alt="project-screenshot" height="400/" >
 
   
   
